@@ -1,0 +1,21 @@
+.magazine{
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.card{
+  height: 90vh;
+}
+
+.news{
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
+}
+
+.read-more{
+  margin-top: 20px;
+}
